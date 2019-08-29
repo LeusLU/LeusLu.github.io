@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>b</title>
-      <link href="/2019/06/24/b/"/>
-      <url>/2019/06/24/b/</url>
+      <title>base64</title>
+      <link href="/2019/08/29/base64/"/>
+      <url>/2019/08/29/base64/</url>
       
-        <content type="html"><![CDATA[<p>base64 ��ͼƬ���໥ת��.<br><a href="https://blog.csdn.net/weixin_44719417/article/details/93395553" target="_blank" rel="noopener">https://blog.csdn.net/weixin_44719417/article/details/93395553</a></p>]]></content>
+        <content type="html"><![CDATA[<p>base64 -&gt;jpeg.<br><a href="https://blog.csdn.net/weixin_44719417/article/details/93395553" target="_blank" rel="noopener">https://blog.csdn.net/weixin_44719417/article/details/93395553</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> new gesture </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> base64 </tag>
+            
+        </tags>
       
     </entry>
     
